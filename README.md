@@ -4,6 +4,10 @@
 
 sax-parser is an xml parser written in javascript. 
 
+This Fork has been modified to be more lenient, so it can be used with html. 
+
+** Use At Your Own Risk!!! **
+
 ## Install
 
 ```sh
